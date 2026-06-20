@@ -22,5 +22,11 @@
         "key": "2007",
         "expirydate": "15-06-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1ff546416ab9a613",
+        "key": "2006",
+        "expirydate": "15-06-2030",
+        "Allowoffline": true
     }
 ]
