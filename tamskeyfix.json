@@ -58,11 +58,5 @@
         "key": "1986",
         "expirydate": "15-06-2030",
         "Allowoffline": true
-    },
-    {
-        "device_id": "aef5ade7dc6149d3",
-        "key": "abc",
-        "expirydate": "15-06-2030",
-        "Allowoffline": true
     }
 ]
